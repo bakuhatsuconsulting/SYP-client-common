@@ -5,7 +5,7 @@
  ***********************************************************************************************************************************************
  * @description
  */
-import Model from '/app/src/models/orders';
+import Model from '../../models/orders';
 import Details from './details';
 
 /**

@@ -6,7 +6,7 @@
  * @description
  */
 import jwt from 'jsonwebtoken';
-import * as Authentication from '/app/src/system/authentication';
+import * as Authentication from '../system/authentication';
 
 const secret = 'SYPSOOPERSECRETS';
 

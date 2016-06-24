@@ -5,7 +5,7 @@
  ***********************************************************************************************************************************************
  * @description
  */
-import Authentication from '/app/src/system/authentication';
+import Authentication from '../system/authentication';
 
 let Authorizations = Object.create({find: find});
 

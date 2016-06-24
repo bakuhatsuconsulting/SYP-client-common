@@ -5,8 +5,8 @@
  ***********************************************************************************************************************************************
  * @description
  */
-import Model from '/app/src/models/orders';
-import Customers from '/app/src/models/customers';
+import Model from '../../models/orders';
+import Customers from '../../models/customers';
 import q from 'q';
 
 export default {view};

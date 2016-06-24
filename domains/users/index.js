@@ -6,7 +6,7 @@
  * @description
  */
 
-import Users from '/app/src/models/users';
+import Users from '../../models/users';
 import q from 'q';
 
 export function create(user) {

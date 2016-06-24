@@ -5,10 +5,10 @@
  ***********************************************************************************************************************************************
  * @description
  */
-import Storage from '/app/src/system/storage';
-import {Authorizations} from '/app/src/system/authorization';
-import Session from '/app/src/models/sessions';
-import Events from '/app/src/system/events';
+import Storage from '..//storage';
+import {Authorizations} from '../system/authorization';
+import Session from '../../models/sessions';
+import Events from '../system/events';
 
 import q from 'q';
 

@@ -6,7 +6,7 @@
  * @description
  */
 
-import Customers from '/app/src/models/customers';
+import Customers from '../../models/customers';
 import q from 'q';
 
 export function create(user) {

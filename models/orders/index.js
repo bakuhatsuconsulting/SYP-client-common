@@ -6,7 +6,7 @@
  * @description
  */
 
-import Resource from '/app/src/system/resource';
+import Resource from '../../system/resource';
 
 /**
  * WORKORDERS RESOURCE

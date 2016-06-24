@@ -6,7 +6,7 @@
  * @description
  */
 
-import Emails from '/app/src/models/emails';
+import Emails from '../../models/emails';
 
 export function send(config) {
   return Emails.create(config)

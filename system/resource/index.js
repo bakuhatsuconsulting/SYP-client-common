@@ -8,7 +8,7 @@
 import SA from 'superagent';
 import config from '/app/.env/node/config.js';
 import prefix from 'superagent-prefix';
-import * as Authentication from '/app/src/system/authentication';
+import * as Authentication from '../system/authentication';
 import q from 'q';
 
 export default class Resource {

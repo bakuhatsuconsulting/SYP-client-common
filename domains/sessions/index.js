@@ -6,8 +6,8 @@
  * @description
  */
 
-import Sessions from '/app/src/models/sessions';
-import * as Authentication from '/app/src/system/authentication';
+import Sessions from '../../models/sessions';
+import * as Authentication from '../../system/authentication';
 import q from 'q';
 
 export function create(user) {
