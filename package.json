@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bakuhatsuconsulting/SYP-client-common/issues"
   },
-  "homepage": "https://github.com/bakuhatsuconsulting/SYP-client-common#readme"
+  "homepage": "https://github.com/bakuhatsuconsulting/SYP-client-common#readme",
+  "dependencies": {
+    
+  }
 }
