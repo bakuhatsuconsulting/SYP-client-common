@@ -1,17 +1,13 @@
 'use strict';
 
 /***********************************************************************************************************************************************
- * SYP.CLIENT-COMMON.MODELS
+ * SYP.CLIENT-COMMON
  ***********************************************************************************************************************************************
  * @description
  */
-import Customers from './customers';
-import Emails from './emails';
-import Orders from './orders';
-import Sessions from './sessions';
-import Users from './users';
-
-/**
- * 
- */
-export default {Customers, Emails, Orders, Sessions, Users};
+module.exports = {
+  Common: require('./common'),
+  Domains:  require('./domains'),
+  Models: require('./models'),
+  System: require('./system')
+};
