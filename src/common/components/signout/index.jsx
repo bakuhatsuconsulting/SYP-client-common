@@ -6,7 +6,7 @@
  * @description
  */
 import React from 'react';
-import Storage from '/app/system/storage';
+import Storage from '../../../storage';
 
 export default class Signout extends React.Component {
   constructor() {

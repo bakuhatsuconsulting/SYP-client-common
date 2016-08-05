@@ -363,7 +363,7 @@ var _react = require('react');
 
 var _react2 = _interopRequireDefault(_react);
 
-var _storage = require('/app/system/storage');
+var _storage = require('../../../storage');
 
 var _storage2 = _interopRequireDefault(_storage);
 
