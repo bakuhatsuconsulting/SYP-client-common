@@ -1,5 +1,5 @@
 import React from 'react';
-import dropdown from './dropdown/index.jsx';
+import dropdown from './dropdown';
 
 export default class Form extends React.Component {
   render() {

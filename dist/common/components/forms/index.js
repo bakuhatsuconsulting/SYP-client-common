@@ -11,9 +11,9 @@ var _react = require('react');
 
 var _react2 = _interopRequireDefault(_react);
 
-var _index = require('./dropdown/index.jsx');
+var _dropdown = require('./dropdown');
 
-var _index2 = _interopRequireDefault(_index);
+var _dropdown2 = _interopRequireDefault(_dropdown);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -43,4 +43,4 @@ var Form = function (_React$Component) {
 }(_react2.default.Component);
 
 exports.default = Form;
-exports.dropdown = _index2.default;
+exports.dropdown = _dropdown2.default;
