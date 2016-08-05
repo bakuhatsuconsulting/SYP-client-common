@@ -5,7 +5,7 @@
  ***********************************************************************************************************************************************
  * @description
  */
-import Storage from '..//storage';
+import Storage from '../storage';
 import {Authorizations} from '../system/authorization';
 import Session from '../../models/sessions';
 import Events from '../system/events';

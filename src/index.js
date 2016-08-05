@@ -7,7 +7,7 @@
  */
 module.exports = {
   Common: require('./common'),
-  Domains: require('./domains'),
-  Models: require('./models'),
-  System: require('./system')
+  // Domains: require('./domains'),
+  // Models: require('./models'),
+  // System: require('./system')
 };
